@@ -36,9 +36,9 @@ I build responsive, scalable, and user-focused web applications using
 * 🚀 Experienced in building full-stack applications, admin panels, REST APIs, document workflows, and responsive user interfaces
 * 📄 Currently working on a **Document Management System**
 * 📝 Exploring rich-text editing, DOCX import/export, page formatting, and reusable editor components
-* 🧠 Learning **Python, Machine Learning, Deep Learning, Generative AI, RAG, LangChain, and MLOps**
+* 🧠 Learning **Python and Machine Learning.**
 * 💬 Ask me about **JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, MongoDB, and REST APIs**
-* 💻 Solved more than **120 Data Structures and Algorithms problems**
+* 💻 Solved more than **130+ Data Structures and Algorithms problems**
 * 📫 Reach me at **[vinitkumar8092@gmail.com](mailto:vinitkumar8092@gmail.com)**
 * 🏏 I enjoy playing cricket
 
