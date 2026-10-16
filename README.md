@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Vinit Kumar
+# Hi 👋, I'm Farheen
 
 ### Full Stack Developer | Software Development Engineer
 
