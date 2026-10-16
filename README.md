@@ -38,7 +38,7 @@ I build responsive, scalable, and user-focused web applications using
 * 📝 Exploring rich-text editing, DOCX import/export, page formatting, and reusable editor components
 * 🧠 Learning **Python and Machine Learning.**
 * 💬 Ask me about **JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, MongoDB, and REST APIs**
-* 💻 Solved more than **130+ Data Structures and Algorithms problems**
+* 💻 Solved more than **150+ Data Structures and Algorithms problems**
 * 📫 Reach me at **[vinitkumar8092@gmail.com](mailto:vinitkumar8092@gmail.com)**
 * 🏏 I enjoy playing cricket
 
